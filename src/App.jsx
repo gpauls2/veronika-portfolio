@@ -30,8 +30,8 @@ const testimonials = [
   { src: '/images/testimonials/gt2.png', alt: 'Gateway Bridge Facebook client recommendation screenshot 2' },
 ];
 const gatewayPhotos = [
-  { src: '/images/gbphotos/gb1.png', alt: 'Gateway Bridge professional group photograph 1' },
-  { src: '/images/gbphotos/gb2.png', alt: 'Gateway Bridge professional group photograph 2' },
+  { src: '/images/gbphotos/gb1.jpg', alt: 'Gateway Bridge professional group photograph 1' },
+  { src: '/images/gbphotos/gb2.jpg', alt: 'Gateway Bridge professional group photograph 2' },
 ];
 const contributions = [
   { title: 'Social Media Management', description: 'Managed the company Facebook page and published selected posts and updates.', Icon: UsersRound },
